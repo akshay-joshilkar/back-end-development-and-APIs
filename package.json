@@ -1,6 +1,7 @@
 {
   "author": "Akshay",
   "description": "Back End Development and APIs",
+  "keywords": ["api", "development", "backend", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
